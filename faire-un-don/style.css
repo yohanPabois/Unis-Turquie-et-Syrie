@@ -1,0 +1,26 @@
+.header{
+  text-align: center;
+}
+.don{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 10px;
+  display: flex;
+  justify-content: center;
+}
+.text-bg-success{
+  border-radius: 4px;
+  text-align: center;
+  text-decoration: white;
+}
+.btn-group{
+  display: flex;
+  justify-content: center;
+  margin: 25px;
+}
+.formulaire{
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  
+}
