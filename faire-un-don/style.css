@@ -13,14 +13,38 @@
   text-align: center;
   text-decoration: white;
 }
+
+
 .btn-group{
-  display: flex;
-  justify-content: center;
-  margin: 25px;
+    display: flex;
+    justify-content: center;
+    margin: 25px;
 }
 .formulaire{
   display: flex;
   justify-content: center;
-  margin: 10px;
   
+  margin: 10px; 
+}
+.paiement{
+  display: flex;
+  justify-content:space-between;
+  gap: 10px;
+  margin: 10px;
+}  
+.carte{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 10px;
+}
+.mois{
+  width: 550px;
+  padding: auto;
+}
+.num{
+  text-align: center;
+  
+  
+  width: 240px; ;
 }
